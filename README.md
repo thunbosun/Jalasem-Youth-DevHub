@@ -18,7 +18,7 @@ To get started, Fill the Register below
 |Abdullateef Debo Eazi  | deboeazi@gmail.com  | 09081215380   |     	        | deboeazi          | front end     |   
 |kamaldeen yusuf kehinde|devyousefk@gmail.com |08146367757    |       am here   | kenkarmah         | FullStack     |
 |abdulwaheed abdulwareez|abdulwariz090@gmail.com|07081024717 |         	    |  wareez    	    | front end     |
-|                  	    |                  	|              	|               	|                 	|               |
+|olaleye tunbosun wale  |olaleywale33@gmail.com|08086329427 |awesome          |thunbosun          | everything    |
 |                  	    |                  	|              	|               	|                 	|               |
 |                  	    |                  	|              	|               	|                 	|               |
 |                  	    |                  	|              	|               	|                 	|               |
